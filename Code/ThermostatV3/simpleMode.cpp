@@ -1,6 +1,6 @@
 #include "Arduino.h"
 #include <ArduinoJson.h>
-#include <Encoder.h>
+//#include <Encoder.h>
 #include <Time.h>
 #include <TimeLib.h>
 

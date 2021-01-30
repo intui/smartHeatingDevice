@@ -5,7 +5,7 @@
 #include <Time.h>
 #include <TimeLib.h>
 #include <ArduinoJson.h>
-#include <Encoder.h>
+//#include <Encoder.h>
 
 #include "intuienvironmentAzure.h"
 #include "intuienvironmentSettings.h"
